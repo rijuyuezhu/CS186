@@ -4,7 +4,7 @@ This repo contains all the learning materials for Berkeley's Database course CS1
 
 ## Course Resources
 
- ### General
+### General
 
 [Course website](https://cs186berkeley.net/sp21/): I used the 2021 spring version.
 
